@@ -2,8 +2,8 @@
 #### @SU ZHUO 20260324 COPYRIGHT
 
 
-####includes:
-####1.full k-mer GWAS pipline (mutiple threads accelerated)
+#### includes:  
+#### 1.full k-mer GWAS pipline (mutiple threads accelerated)  
 #### modules:
   #### Matrix build
   #### Multi split
@@ -11,10 +11,10 @@
   #### Aligment to Pangenome
 
   
-####2. R functions
+####2. R functions  
 #### modules:
 #### Peak detect
 #### SP detect
 #### SP accumulate
-#### K-mer Manhattun_plot/QQ_plot
+#### K-mer Manhattun_plot/QQ_plot  
 

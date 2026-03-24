@@ -1,16 +1,17 @@
-#This repository saved the script for paper "A pangenome-scale assembly-native GWAS-to-gene framework"
-#@SU ZHUO 20260324 COPYRIGHT
+#### This repository saved the script for paper "A pangenome-scale assembly-native GWAS-to-gene framework"
+#### @SU ZHUO 20260324 COPYRIGHT
 
 
-##includes:
-###1.full k-mer GWAS pipline (mutiple threads accelerated)
+####includes:
+####1.full k-mer GWAS pipline (mutiple threads accelerated)
 #### modules:
   #### Matrix build
   #### Multi split
   #### Multi GWAS
   #### Aligment to Pangenome
 
-###2. R functions
+  
+####2. R functions
 #### modules:
 #### Peak detect
 #### SP detect
